@@ -1,0 +1,74 @@
+[
+  {
+    "id": "sku_505",
+    "name": "Apcolite Advanced Epoxy",
+    "category": "Marine",
+    "description": "Premium High-performance coating for splash zones.",
+    "specs": {
+      "viscosity": 350,
+      "salt_spray_hours": 600,
+      "drying_time": 4
+    },
+    "price_per_liter": 450
+  },
+  {
+    "id": "sku_506",
+    "name": "Apcolite Standard Marine",
+    "category": "Marine",
+    "description": "Standard marine coating for hull topsides.",
+    "specs": {
+      "viscosity": 300,
+      "salt_spray_hours": 500,
+      "drying_time": 6
+    },
+    "price_per_liter": 380
+  },
+  {
+    "id": "sku_102",
+    "name": "Tractor Emulsion Standard",
+    "category": "Decorative",
+    "description": "Interior wall paint. Low VOC.",
+    "specs": {
+      "viscosity": 150,
+      "salt_spray_hours": 100,
+      "drying_time": 2
+    },
+    "price_per_liter": 120
+  },
+  {
+    "id": "sku_103",
+    "name": "Tractor Emulsion Advanced",
+    "category": "Decorative",
+    "description": "Washable interior wall paint.",
+    "specs": {
+      "viscosity": 180,
+      "salt_spray_hours": 150,
+      "drying_time": 2
+    },
+    "price_per_liter": 160
+  },
+  {
+    "id": "sku_900",
+    "name": "Apex Ultima Protek",
+    "category": "Exterior",
+    "description": "Exterior coating with lamination technology.",
+    "specs": {
+      "viscosity": 280,
+      "salt_spray_hours": 300,
+      "drying_time": 6
+    },
+    "price_per_liter": 600
+  },
+  {
+    "id": "sku_IND_01",
+    "name": "Asian Ind-Coat Zinc",
+    "category": "Industrial",
+    "description": "Zinc-rich primer for pipelines.",
+    "specs": {
+      "viscosity": 400,
+      "salt_spray_hours": 1000,
+      "drying_time": 12
+    },
+    "price_per_liter": 850
+  }
+]
